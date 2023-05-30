@@ -1,0 +1,16 @@
+<wpml-config>
+
+<admin-texts>
+	<key name="alg_gateways_fees_text_cod"/>
+	<key name="alg_gateways_fees_text_2_cod"/>
+	<key name="alg_gateways_fees_text_cheque"/>
+	<key name="alg_gateways_fees_text_2_cheque"/>
+	<key name="alg_gateways_fees_text_bacs"/>
+	<key name="alg_gateways_fees_text_2_bacs"/>
+	<key name="alg_woocommerce_checkout_fees_global_fee_title"/>
+	<key name="alg_gateways_fees_text_paypal"/>
+	<key name="alg_gateways_fees_text_2_paypal"/>
+	
+</admin-texts>
+
+</wpml-config>
